@@ -1,2 +1,2 @@
 # Hashlife
-First year undergraduate project dynamic programming to compute game of life jumps: https://conwaylife.com/wiki/HashLife
+First year undergraduate project dynamic programming to compute Conway's Game of Life jumps using quadtrees: https://conwaylife.com/wiki/HashLife
